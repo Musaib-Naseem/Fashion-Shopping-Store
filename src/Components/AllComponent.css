@@ -1,0 +1,11 @@
+.slick-dots {
+ 
+   display: flex; /* Use flex display for the dots container */
+   justify-content: center; /* Center the dots horizontally */
+}
+ 
+ .slick-dots li {
+ 
+   display:block !important; /* Display the li elements as inline-blocks */
+   margin-right: 10px; /* Add spacing between dots if needed */
+ }
